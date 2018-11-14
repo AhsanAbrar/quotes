@@ -26,7 +26,6 @@ const app = new Vue({
 			"Believe and act as if it were impossible to fail.",
 			"Success is going from failure to failure without losing your enthusiasm.",
 			"Make each day your masterpiece.",
-			"The power of imagination makes us infinite.",
 			"Action is the foundational key to all success."
 		]
 	},
